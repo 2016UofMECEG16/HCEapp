@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Erwin\AndroidStudioProjects\CardEmulation_V9\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="bb0ac3f3ee2d71854501cc28e52cc84a20209b41">
+        <dex dex="C:\Users\Erwin\AndroidStudioProjects\CardEmulation_V9\Application\build\intermediates\pre-dexed\debug\classes-006b592a6120c79723e4700cac7b1b2ed75018da.jar" />
+    </item>
+    <item
+        jar="C:\Users\Erwin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Erwin\AndroidStudioProjects\CardEmulation_V8_IP\Application\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-09554e73222228f6c5bd82c09db5ff4708a10fa6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Erwin\AndroidStudioProjects\CardEmulation_V8_IP\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="5d4bccb885c8a89d066ecb6c4addb553a99a79a2">
+        <dex dex="C:\Users\Erwin\AndroidStudioProjects\CardEmulation_V8_IP\Application\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-45e19510890c8fe986bd03ac4d453dcc2646884e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Erwin\AndroidStudioProjects\CardEmulation_V8_IP\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="C:\Users\Erwin\AndroidStudioProjects\CardEmulation_V8_IP\Application\build\intermediates\pre-dexed\debug\classes-30950c3e209afa964c2b14e3715edcaa1c6730ef.jar" />
+    </item>
+    <item
+        jar="C:\Users\Erwin\AndroidStudioProjects\CardEmulation_V9\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Erwin\AndroidStudioProjects\CardEmulation_V9\Application\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-7bb0b7173af353b74f19ec7b6503238991119c0d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Erwin\AndroidStudioProjects\CardEmulation_V9\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Erwin\AndroidStudioProjects\CardEmulation_V9\Application\build\intermediates\pre-dexed\debug\classes-31193889fc2644245aa8cba4b91d67b1948381f0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Erwin\AndroidStudioProjects\CardEmulation_V9\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="C:\Users\Erwin\AndroidStudioProjects\CardEmulation_V9\Application\build\intermediates\pre-dexed\debug\classes-c30a2ba68ee71192cb1ac8a056c05ce4f29c6778.jar" />
+    </item>
+    <item
+        jar="C:\Users\Erwin\AndroidStudioProjects\CardEmulation_V8_IP\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="bb0ac3f3ee2d71854501cc28e52cc84a20209b41">
+        <dex dex="C:\Users\Erwin\AndroidStudioProjects\CardEmulation_V8_IP\Application\build\intermediates\pre-dexed\debug\classes-6466165764291ed4e2abaaa8026ed98115b634f8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Erwin\AndroidStudioProjects\CardEmulation_V8_IP\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Erwin\AndroidStudioProjects\CardEmulation_V8_IP\Application\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-ab186a07667eb95bebc0c446375aee4e69fabec1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Erwin\AndroidStudioProjects\CardEmulation_V8_IP\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Erwin\AndroidStudioProjects\CardEmulation_V8_IP\Application\build\intermediates\pre-dexed\debug\classes-1301b9628ba31d67be1c1509388e6f676b4fc1e3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Erwin\AndroidStudioProjects\CardEmulation_V9\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="5d4bccb885c8a89d066ecb6c4addb553a99a79a2">
+        <dex dex="C:\Users\Erwin\AndroidStudioProjects\CardEmulation_V9\Application\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-18166ae792b53de0db9e2e4dfa0b607fcb1cc530.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,114 @@
+<!--
+Copyright (C) 2013 The Android Open Source Project
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
+
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="380dp"
+    android:layout_height="242.25dp"
+    android:layout_gravity="center"
+    android:layout_margin="20dp">
+
+    <LinearLayout
+        android:layout_width="372dp"
+        android:layout_height="144dp"
+        android:orientation="horizontal"
+        android:padding="20dp"
+        android:layout_gravity="left|center_vertical"
+        android:clickable="true"
+        android:weightSum="1">
+
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PHONE"
+            android:id="@+id/emulate_button" />
+
+        <Button
+            android:layout_width="74dp"
+            android:layout_height="wrap_content"
+            android:text="CARD"
+            android:id="@+id/write_back"
+            android:onClick="requestData"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Check"
+            android:id="@+id/check_bal" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Time"
+            android:id="@+id/time_stamp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="363dp"
+        android:layout_height="145dp"
+        android:orientation="horizontal"
+        android:padding="20dp"
+        android:layout_gravity="center_horizontal|bottom"
+        android:clickable="true"
+        android:weightSum="1">
+
+        <Button
+            android:layout_width="58dp"
+            android:layout_height="wrap_content"
+            android:text="$-20"
+            android:id="@+id/add_10" />
+
+        <Button
+            android:layout_width="52dp"
+            android:layout_height="wrap_content"
+            android:text="$-5"
+            android:id="@+id/add_balance"
+            android:layout_weight="0.27" />
+
+        <Button
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:text="$5"
+            android:id="@+id/add_25"
+            android:layout_weight="0.16" />
+
+        <Button
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:text="$20"
+            android:id="@+id/add_50" />
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ADD"
+            android:id="@+id/add_bal"
+            android:layout_weight="0.44" />
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="330dp"
+        android:layout_height="76dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Message:"
+        android:id="@+id/serverMsg_Box"
+        android:layout_gravity="center_horizontal|bottom" />
+
+</FrameLayout><!-- From: file:/C:/Users/Erwin/AndroidStudioProjects/CardEmulation_V9/Application/src/main/res/layout/main_fragment.xml -->
