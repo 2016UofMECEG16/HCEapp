@@ -11,8 +11,10 @@ https://www.youtube.com/watch?v=aiSHHj7jWpQ
 
 # HCE Development #
 
-
 - Android Studio IDE is used in developing the HCE app
+
+- Java is the programming language used
+
 - Throughout the testing, Nexus 6P and Nexus 5 smartphones were used along with the Raspberry Pi 1 B+ interfaced with the NXP OM5577 NFC controller.
 
 # How to use the HCE App #
@@ -44,7 +46,6 @@ https://www.youtube.com/watch?v=aiSHHj7jWpQ
     
         * ***"ADD"***:  adds the specified amount by the user to his/her existing balance
   
-  
   ### Scanning the smartphone to the scanner ###
   
   * The scanner will see the smartphone as the valid E-Pass and will light the green LED
@@ -53,13 +54,6 @@ https://www.youtube.com/watch?v=aiSHHj7jWpQ
   
   * There might be inconsistencies with the detection of the phone by the scanner due to the NFC chip placement in the phone. In this case the scanner lights the red LED, which means the transaction was not successful and requires the user to re-scan the smartphone.
   
-  ## Smartphone is the activated E-Pass ##
-
-  ### Activating the card and deactivating the smartphone ###
-  
-
-
-
-
+## Smartphone is the activated E-Pass ##
 
 
