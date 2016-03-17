@@ -17,6 +17,12 @@ https://www.youtube.com/watch?v=aiSHHj7jWpQ
 
 - Throughout the testing, Nexus 6P and Nexus 5 smartphones were used along with the Raspberry Pi 1 B+ interfaced with the NXP OM5577 NFC controller.
 
+# HCE App Installation ##
+
+- Copy and paste the *Application-debug.apk* file on your phone's root folder
+
+- The .apk file can be found by going to the following directories: *HCEapp/CardEmulation_V9/Application/build/outputs/apk/*
+
 # How to use the HCE App #
 
 ## Card is the activated E-Pass ##
