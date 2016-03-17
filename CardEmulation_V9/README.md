@@ -21,7 +21,9 @@ https://www.youtube.com/watch?v=aiSHHj7jWpQ
 
 ## Card is the activated E-Pass ##
 
-- Initially, when the is first opened, the card is assumed to be the active E-Pass.
+- (Initially, when the is first opened, the card is assumed to be the active E-Pass)
+ 
+- This is the instance when the active E-Pass is the card
 
   ### Activating the smartphone and deactivating the card ###
 
