@@ -1,12 +1,12 @@
 
 # HCE App #
 
-The HCE app is based on and extracted  the Android developer Card Emulation  API that can be found here: https://github.com/googlesamples/android-CardEmulation
+- The HCE app is based on and extracted  the Android developer Card Emulation  API that can be found here: https://github.com/googlesamples/android-CardEmulation
 
-The HCE app incorporates NFC card reading functionality and uses Ralf Wondratschek's implementation that can be found here:
+- The HCE app incorporates NFC card reading functionality and uses Ralf Wondratschek's implementation that can be found here:
 http://code.tutsplus.com/tutorials/reading-nfc-tags-with-android--mobile-17278
 
-The HCE app incorporates NFC card writing functionality. The writing functionality used is extracted from:
+- The HCE app incorporates NFC card writing functionality. The writing functionality used is extracted from:
 https://www.youtube.com/watch?v=aiSHHj7jWpQ
 
 # HCE Development #
@@ -32,9 +32,9 @@ https://www.youtube.com/watch?v=aiSHHj7jWpQ
     
         * Press ***"PHONE"*** wait unitl the pop-up says, *"Tap card to the phone"*
   
-        * Tap the card, it will say that the card is being written to. Wait until the pop-up that says *"E-Pass succesfully      transferred to card"* fade then remove the card.
+        * Tap the card, it will say that the card is being written to. Wait until the pop-up that says *"E-Pass succesfully      transferred to phone"* fade then remove the card.
   
-  - __NOTE:__ At this point, the smartphone is the active E-Pass and the following buttons are enabled:
+  - __NOTE:__ At this point, the smartphone is the active E-Pass and ***"PHONE"*** button is disabled and the following buttons are enabled:
   
         * ***"CARD"***: activates the card and deactivates the phone as the active E-Pass
   
@@ -55,5 +55,23 @@ https://www.youtube.com/watch?v=aiSHHj7jWpQ
   * There might be inconsistencies with the detection of the phone by the scanner due to the NFC chip placement in the phone. In this case the scanner lights the red LED, which means the transaction was not successful and requires the user to re-scan the smartphone.
   
 ## Smartphone is the activated E-Pass ##
+
+  - This is the instance when the active E-Pass is the smartphone
+  
+  ### Activating the card and deactivating the smartphone ###
+
+  * __STEPS:__
+  
+      * Press ***"CARD"*** wait unitl the pop-up says, *"Tap card to the phone"*
+  
+      * Tap the card, it will say that the card is being written to. Wait until the pop-up that says *"E-Pass succesfully      transferred to card"* fade then remove the card.
+  
+  * __NOTE:__ At this point, the card is the active E-Pass and the following buttons are disabled:
+  
+      * ***"$-20"***, ***"$-5"***, ***"$5"***, ***"$20"***
+  
+      * ***"ADD"***
+  
+  The ***"PHONE"*** button remains disabled and and the ***"CHECK"*** and ***"TIME"*** buttons remain enabled.
 
 
