@@ -17,8 +17,7 @@ https://www.youtube.com/watch?v=aiSHHj7jWpQ
 
 # How to use the HCE App #
 
-## Smartphone as activated E-Pass ##
-
+## Card is the activated E-Pass ##
 
 - Initially, when the is first opened, the card is assumed to be the active E-Pass.
 
@@ -35,6 +34,8 @@ https://www.youtube.com/watch?v=aiSHHj7jWpQ
   
   - __NOTE:__ At this point, the smartphone is the active E-Pass and the following buttons are enabled:
   
+        * ***"CARD"***: activates the card and deactivates the phone as the active E-Pass
+  
         * ***"CHECK"***: displays the user's existing balance
   
         * ***"TIME"***: displays the user's time transfer information
@@ -43,6 +44,7 @@ https://www.youtube.com/watch?v=aiSHHj7jWpQ
     
         * ***"ADD"***:  adds the specified amount by the user to his/her existing balance
   
+  
   ### Scanning the smartphone to the scanner ###
   
   * The scanner will see the smartphone as the valid E-Pass and will light the green LED
@@ -50,6 +52,10 @@ https://www.youtube.com/watch?v=aiSHHj7jWpQ
   * Scanning the card will cause the scanner to light the red LED since it is invalid
   
   * There might be inconsistencies with the detection of the phone by the scanner due to the NFC chip placement in the phone. In this case the scanner lights the red LED, which means the transaction was not successful and requires the user to re-scan the smartphone.
+  
+  ## Smartphone is the activated E-Pass ##
+
+  ### Activating the card and deactivating the smartphone ###
   
 
 
